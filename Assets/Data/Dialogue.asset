@@ -18,25 +18,25 @@ MonoBehaviour:
   - id: 1
     bg: BG_Room2
     character: 10102
-    position: 5
+    position: 4
     dialogue: "\uC804 \uBC14\uBCF4\uB77C\uACE0 \uC0DD\uAC01\uD569\uB2C8\uB2E4."
   - id: 2
     bg: BG_Room2
     character: 10102
-    position: 4
+    position: 3
     dialogue: "\uB300\uCDA9"
   - id: 3
     bg: BG_Room
     character: 10101
-    position: 3
+    position: 2
     dialogue: "\uD14D"
   - id: 4
     bg: BG_Room
     character: 10202
-    position: 2
+    position: 1
     dialogue: "\uC2A4"
   - id: 5
     bg: BG_Top
     character: 10203
-    position: 1
+    position: 0
     dialogue: "\uD2B8"

@@ -21,14 +21,14 @@ MonoBehaviour:
     image: Galsak_00
     description: "\uAC08\uC0C9_\uAE30\uBCF8\uD45C\uC815"
   - id: 10102
-    name: "\uAC08\uC0C9"
+    name: "\uCD08\uB85D\uC0C9"
     title: "\uC2DC\uBBFC?"
-    image: Galsak_01
+    image: Green_00
     description: "\uAC08\uC0C9_\uC6C3\uB294\uD45C\uC815"
   - id: 10103
-    name: "\uAC08\uC0C9"
+    name: "\uBE68\uAC04\uC0C9"
     title: "\uC2DC\uBBFC?"
-    image: Galsak_02
+    image: Red_00
     description: "\uAC08\uC0C9_\uD654\uB09C\uD45C\uC815"
   - id: 10201
     name: "\uBD84\uD64D\uC0C9"
@@ -38,10 +38,10 @@ MonoBehaviour:
   - id: 10202
     name: "\uBD84\uD64D\uC0C9"
     title: "\uC784\uD3EC\uC2A4\uD130?"
-    image: Pink_01
+    image: Pink_00
     description: "\uBD84\uD64D_\uC6C3\uB294\uD45C\uC815"
   - id: 10203
     name: "\uBD84\uD64D\uC0C9"
     title: "\uC784\uD3EC\uC2A4\uD130?"
-    image: Pink_02
+    image: Pink_00
     description: "\uBD84\uD64D_\uD654\uB09C\uD45C\uC815"

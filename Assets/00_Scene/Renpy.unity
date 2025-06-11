@@ -139,7 +139,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &229579496
 RectTransform:
   m_ObjectHideFlags: 0
@@ -668,7 +668,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: 960ff6401a3c068408a8ed4364b125a6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -793,7 +793,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uC774\uC789\uC557\uC300\uB77C\uC774\uB9D0\uB77C\uC774\uCFF0"
+  m_text: "\uBC94\uC8C4\uC790"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d09f2f9487d0a914d956c17b8be7fa65, type: 2}
   m_sharedMaterial: {fileID: -7295551857307522065, guid: d09f2f9487d0a914d956c17b8be7fa65,
@@ -953,13 +953,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1777433030}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 1591469002}
+        m_TargetAssemblyTypeName: Renpy, Assembly-CSharp
+        m_MethodName: OnClickButton
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -1020,7 +1020,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &864077242
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1317,7 +1317,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uB300\uC0AC\uB294 \uC5EC\uAE30\uC778\uAC70 \uAC19\uC740\uB370\uC694"
+  m_text: "\uB300\uC0AC"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d09f2f9487d0a914d956c17b8be7fa65, type: 2}
   m_sharedMaterial: {fileID: -7295551857307522065, guid: d09f2f9487d0a914d956c17b8be7fa65,
@@ -1645,7 +1645,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1536125213
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1732,17 +1732,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c3580582844b0e4094b1bd1ccde6c41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BG: {fileID: 486517376}
+  img_BG: {fileID: 486517376}
   img_Character:
   - {fileID: 1536125214}
   - {fileID: 1855439996}
   - {fileID: 229579497}
   - {fileID: 1649021098}
   - {fileID: 864077243}
-  txt_Name: {fileID: 0}
-  txt_NameTitle: {fileID: 0}
-  txt_Dialouge: {fileID: 0}
-  btn_Next: {fileID: 0}
+  txt_Name: {fileID: 564007100}
+  txt_NameTitle: {fileID: 2100251202}
+  txt_Dialouge: {fileID: 1332268591}
+  btn_Next: {fileID: 674138230}
 --- !u!4 &1591469003
 Transform:
   m_ObjectHideFlags: 0
@@ -1775,7 +1775,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1649021097
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1937,7 +1937,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1855439995
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2099,7 +2099,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uB300\uCC45\uB300\uCC45\uB300\uB300\uCC45\uCC45\uCC45\uCC45\uC704\uC6D0\uD68C"
+  m_text: "\uC18C\uC18D"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d09f2f9487d0a914d956c17b8be7fa65, type: 2}
   m_sharedMaterial: {fileID: -7295551857307522065, guid: d09f2f9487d0a914d956c17b8be7fa65,
